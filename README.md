@@ -1,5 +1,5 @@
 # 💫 Hi There! I'm Manfred!
-🔭 I’m currently working as a Software Developer!<br>🌱 I’m currently learning AWS.<br>💬 Ask me about anything you want! Glad to help if I can!<br>⚡ Fun fact I train in an uncommon sport .
+🔭 I’m a Software Developer!<br>🌱 I’m currently learning AWS.<br>💬 Ask me about anything you want! Glad to help if I can!<br>⚡ Fun fact I train in an uncommon sport .
 
 
 ## 🌐 Socials:
