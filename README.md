@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Manfredi</h1>
-<ul>
+<h2 align="center">Hi there👋, I'm Manfredi!</h2>
+<ul align="center" style="list-style: none;">
   <li>🔭 I’m a Software Developer!</li>
   <li>🌱 I’m currently learning AWS.</li>
   <li>
@@ -12,8 +12,8 @@
   </li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -75,9 +75,15 @@
     />
   </a>
 </p>
+<p align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manfredi-piraino)
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manfredi-piraino/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
 
 <!-- ## Feeding... !
