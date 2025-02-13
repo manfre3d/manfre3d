@@ -19,11 +19,23 @@ I already hold a **Bachelor's degree** and a **Master's degree**, and my ongoing
 - 💬 **Let’s connect** 📫 <a href="mailto:manfredipiraino@gmail.com"><strong>manfredipiraino@gmail.com</strong></a>
 
 ---
+
+## 💻 Tech Stack
+
+I specialize in building scalable and efficient software solutions using the following technologies:
+
+- **Frontend**: HTML5, CSS3, Sass, JavaScript, TypeScript, React, Vue.js, Angular
+- **Backend**: Node.js, Express.js, Python, Java, Spring
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools & Frameworks**: Bootstrap, REST APIs, Git, Docker, Nginx, AWS
+
+---
+
 ## 🛠️ Skills & Technologies
 
 I have hands-on experience working with the following tools and technologies:
 
-### **Frontend Technologies**
+<!-- ### **Frontend Technologies** -->
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -48,7 +60,7 @@ I have hands-on experience working with the following tools and technologies:
   </a>
 </p>
 
-### **Backend Technologies**
+<!-- ### **Backend Technologies** -->
 <p align="center">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
@@ -66,8 +78,6 @@ I have hands-on experience working with the following tools and technologies:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40" />
   </a>
 </p>
-
-
 
 ---
 
