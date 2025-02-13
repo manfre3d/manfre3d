@@ -1,15 +1,15 @@
 <h2 align="center">Hi there👋, I'm Manfredi!</h2>
 <ul align="center" style="list-style: none;">
-  <li>🔭 I’m a Software Developer!</li>
-  <li>🌱 I’m currently learning AWS.</li>
-  <li>
+  <h5>🔭 I’m a Software Developer!</h5>
+  <h5>🌱 I’m currently learning AWS.</h5>
+  <h5>
     💬 Want to chat? Reach out on 📫<a href="mailto:manfredipiraino@gmail.com"
       ><strong>manfredipiraino@gmail.com</strong></a
     >
-  </li>
-  <li>
+  </h5>
+  <h5>
     ⚡ Fun fact I used to train in an uncommon sport. Want to guess which one?
-  </li>
+  </h5>
 </ul>
 
 <h3 align="center">Languages and Tools</h3>
