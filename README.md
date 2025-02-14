@@ -10,11 +10,11 @@
 
 I’m a **Full Stack Developer** with expertise in both **frontend** and **backend** development. I’m passionate about building scalable software and solving complex problems to deliver seamless user experiences.
 
-Currently, I’m pursuing a **Bachelor's degree in Computer Science**, focusing on **software engineering**. This enhances my understanding of algorithms, data structures, and modern development practices, directly complementing my work as a developer.
+<!-- Currently, I’m pursuing a **Bachelor's degree in Computer Science**, focusing on **software engineering**. This enhances my understanding of algorithms, data structures, and modern development practices, directly complementing my work as a developer.
 
-I already hold a **Bachelor's degree** and a **Master's degree**, and my ongoing studies in **Computer Science** allow me to build on my existing knowledge and expand into new technical areas.
+I already hold a **Bachelor's degree** and a **Master's degree**, and my ongoing studies in **Computer Science** allow me to build on my existing knowledge and expand into new technical areas. -->
 
-- 🌱 **Pursuing a Bachelor's in Computer Science** with a focus on software development.
+- 🌱 **Pursuing a Bachelor's in Computer Science** with a focus on software engineering.
 - 🚀 **Driven by a passion for continuous learning and development**.
 - 💬 **Let’s connect** 📫 <a href="mailto:manfredipiraino@gmail.com"><strong>manfredipiraino@gmail.com</strong></a>
 
