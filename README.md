@@ -133,11 +133,13 @@ I have hands-on experience working with the following tools and technologies:
 Here are some of my hands-on projects where I’ve applied my skills to solve real-world problems:
 
 1. **[Hotel Booking - Project Work](https://github.com/manfre3d/project_work)**  
-   A full-stack application to manage bookings, featuring user management, login, cookies, and administrator functionalities. Built using **Python**, **JavaScript**, **HTML**, **Bootstrap**, and **SQLite**.  
+   A full-stack application to manage bookings, featuring user management, login, cookies, and administrator functionalities.<br> 
+   Built using **Python**, **JavaScript**, **HTML**, **Bootstrap**, and **SQLite**.  
    - **Skills Used**: Python, JavaScript, SQLite, REST APIs, Bootstrap
 
 2. **[AiPocondriaco](https://github.com/manfre3d/AiPocondriaco)**  
-   A dynamic health and well-being chatbot interacting with users to provide personalized advice. Built with **Node.js**, **Express.js**, **Angular**, and **PostgreSQL**.  
+   A dynamic health and well-being chatbot interacting with users to provide personalized advice. The projects makes use of the OpenAI gpt model for image and chat generation. <br>
+   Built with **Node.js**, **Express.js**, **Angular**, and **PostgreSQL**.  
    - **Skills Used**: Angular, Node.js, Express.js, PostgreSQL, API integration
 
 Feel free to check out more projects and contributions in my [GitHub repository](https://github.com/manfre3d?tab=repositories).
