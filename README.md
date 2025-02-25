@@ -35,10 +35,11 @@ I specialize in building scalable and efficient software solutions using the fol
 
 I have hands-on experience working with the following tools and technologies:
 
-
+<!-- 
 ## 🛠️ Skills & Technologies
-
+-->
 <!-- Frontend Technologies -->
+<!--
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -65,7 +66,7 @@ I have hands-on experience working with the following tools and technologies:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-
+-->
 <!-- Backend Technologies -->
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
