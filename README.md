@@ -68,6 +68,7 @@ I have hands-on experience working with the following tools and technologies:
 </p>
 -->
 <!-- Backend Technologies -->
+<!-- 
 <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -88,8 +89,9 @@ I have hands-on experience working with the following tools and technologies:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apache_Camel_Logo.svg/750px-Apache_Camel_Logo.svg.png?20190702162104" alt="Apache camel" width="90" height="25"/>
   </a>
 </p>
-
+-->
 <!-- Databases -->
+<!--
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -104,8 +106,9 @@ I have hands-on experience working with the following tools and technologies:
     <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/>
   </a>
 </p>
-
+-->
 <!-- DevOps & Tools -->
+<!-- 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -126,7 +129,7 @@ I have hands-on experience working with the following tools and technologies:
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
   </a>
 </p>
-
+-->
 ---
 
 ## 📚 Projects
