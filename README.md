@@ -30,11 +30,11 @@ I specialize in building scalable and efficient software solutions using the fol
 - **Tools & Frameworks**: Bootstrap, REST APIs, Git, Docker, Nginx, AWS
 
 ---
-
+<!--
 ## 🛠️ Skills & Technologies
 
 I have hands-on experience working with the following tools and technologies:
-
+-->
 <!-- 
 ## 🛠️ Skills & Technologies
 -->
