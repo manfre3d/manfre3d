@@ -25,7 +25,7 @@ I already hold a **Bachelor's degree** and a **Master's degree**, and my ongoing
 I specialize in building scalable and efficient software solutions using the following technologies:
 
 - **Frontend**: HTML5, CSS3, Sass, JavaScript, TypeScript, React, Vue.js, Angular
-- **Backend**: Node.js, Express.js, Python, Java, Spring
+- **Backend**: Flask, Node.js, Express.js, Python, Java, Spring
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Tools & Frameworks**: Bootstrap, REST APIs, Git, Docker, Nginx, AWS
 
