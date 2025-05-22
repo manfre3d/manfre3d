@@ -130,6 +130,7 @@ I have hands-on experience working with the following tools and technologies:
   </a>
 </p>
 -->
+<!--
 ---
 
 ## 📚 Projects
@@ -149,7 +150,7 @@ Here are some of my hands-on projects where I’ve applied my skills to solve re
 Feel free to check out more projects and contributions in my [GitHub repository](https://github.com/manfre3d?tab=repositories).
 
 ---
-
+-->
 ## 🌐 Let's Connect
 
 You can reach me through multiple channels:
