@@ -1,159 +1,76 @@
-<h2 align="center">Hi there👋, I'm Manfredi!</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+
+<h1 align="center">Hi, I'm Manfredi 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer | Passionate about Software Engineering | Lifelong Learner</em>
+  <strong>Software Engineer</strong> &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Enterprise Systems &nbsp;·&nbsp; Microservices
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manfredi-piraino/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manfredipiraino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://manfre3d.github.io/naw">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a **Full Stack Developer** with expertise in both **frontend** and **backend** development. I’m passionate about building scalable software and solving complex problems to deliver seamless user experiences.
+Software Engineer with 4+ years of experience in enterprise environments across **aerospace**, **fintech**, and **insurance** domains. Currently a Consultant Software Engineer at **Blue Reply**, contributing to aeronautical systems at **Avio Aero**.
 
-<!-- Currently, I’m pursuing a **Bachelor's degree in Computer Science**, focusing on **software engineering**. This enhances my understanding of algorithms, data structures, and modern development practices, directly complementing my work as a developer.
-
-I already hold a **Bachelor's degree** and a **Master's degree**, and my ongoing studies in **Computer Science** allow me to build on my existing knowledge and expand into new technical areas. -->
-
-- 🌱 **Software Engineer | B.Sc. Computer Science**
-- 🚀 **Driven by a passion for continuous learning and development**.
-- 💬 **Let’s connect** 📫 <a href="mailto:manfredipiraino@gmail.com"><strong>manfredipiraino@gmail.com</strong></a>
+- Working across the full stack with **Angular**, **Spring Boot**, and **TypeScript**
+- Experience with **microservices architecture**, REST APIs, and enterprise integration patterns
+- Currently expanding into **AI tooling** and its practical applications in software development
+- BSc in Computer Science *(109/110)* · MSc in Computer Security Engineering *(110/110 cum laude)*
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-I specialize in building scalable and efficient software solutions using the following technologies:
+**Languages**
 
-- **Frontend**: HTML5, CSS3, Sass, JavaScript, TypeScript, React, Vue.js, Angular
-- **Backend**: Flask, Node.js, Express.js, Python, Java, Spring
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Frameworks**: Bootstrap, REST APIs, Git, Docker, Nginx, AWS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,java,py,cs,js" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,vue,html,css,sass" />
+</p>
+
+**Backend & Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,flask,express" />
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,cassandra" />
+</p>
+
+**DevOps & Cloud**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git" />
+</p>
+
+**Also worked with in professional environments:** Apache Kafka · Apache Camel · Jenkins · OpenShift · Oracle · SQL Server · Kibana · Dynatrace · Splunk · OpenAI API
 
 ---
-<!--
-## 🛠️ Skills & Technologies
 
-I have hands-on experience working with the following tools and technologies:
--->
-<!-- 
-## 🛠️ Skills & Technologies
--->
-<!-- Frontend Technologies -->
-<!--
-<p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
--->
-<!-- Backend Technologies -->
-<!-- 
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://camel.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apache_Camel_Logo.svg/750px-Apache_Camel_Logo.svg.png?20190702162104" alt="Apache camel" width="90" height="25"/>
-  </a>
-</p>
--->
-<!-- Databases -->
-<!--
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  </a>
-  <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/>
-  </a>
-</p>
--->
-<!-- DevOps & Tools -->
-<!-- 
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
-    <img src="https://companieslogo.com/img/orig/SPLK_BIG-a13b4c77.png?t=1720244494" alt="splunk" width="90" height="25"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
-  </a>
-</p>
--->
-<!--
----
+## Connect
 
-## 📚 Projects
+- 📧 [manfredipiraino@gmail.com](mailto:manfredipiraino@gmail.com)
+- 💼 [linkedin.com/in/manfredi-piraino](https://www.linkedin.com/in/manfredi-piraino/)
+- 🌐 [manfre3d.github.io/naw](https://manfre3d.github.io/naw)
 
-Here are some of my hands-on projects where I’ve applied my skills to solve real-world problems:
-
-1. **[Hotel Booking - Project Work](https://github.com/manfre3d/project_work)**  
-   A full-stack application to manage bookings, featuring user management, login, cookies, and administrator functionalities.<br> 
-   Built using **Python**, **JavaScript**, **HTML**, **Bootstrap**, and **SQLite**.  
-   - **Skills Used**: Python, JavaScript, SQLite, REST APIs, Bootstrap
-
-2. **[AiPocondriaco](https://github.com/manfre3d/AiPocondriaco)**  
-   A dynamic health and well-being chatbot interacting with users to provide personalized advice. The projects makes use of the OpenAI gpt model for image and chat generation. <br>
-   Built with **Node.js**, **Express.js**, **Angular**, and **PostgreSQL**.  
-   - **Skills Used**: Angular, Node.js, Express.js, PostgreSQL, API integration
-
-Feel free to check out more projects and contributions in my [GitHub repository](https://github.com/manfre3d?tab=repositories).
-
----
--->
-## 🌐 Let's Connect
-
-You can reach me through multiple channels:
-
-- 📧 **Email**: <a href="mailto:manfredipiraino@gmail.com"><strong>manfredipiraino@gmail.com</strong></a>
-- 💼 **LinkedIn**: [Manfredi Piraino](https://www.linkedin.com/in/manfredi-piraino/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
