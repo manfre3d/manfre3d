@@ -22,6 +22,11 @@
 
 ## About Me
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-portrait-dark.svg">
+  <img align="right" width="220" alt="ASCII portrait of Manfredi" src="assets/ascii-portrait-light.svg">
+</picture>
+
 Software Engineer with 4+ years of experience in enterprise environments across **aerospace**, **fintech**, and **insurance** domains. Currently a Consultant Software Engineer at **Blue Reply**, contributing to aeronautical systems at **Avio Aero**.
 
 - Working across the full stack with **Angular**, **Spring Boot**, and **TypeScript**
